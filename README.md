@@ -24,9 +24,5 @@ sudo go run ./main.go -h
 
 例如：`GOOS=linux GOARCH=amd64 go build -o dping main.go`
 
-执行例图
 
-<img src="/Users/h/Library/Application Support/typora-user-images/image-20250730162758499.png" alt="image-20250730162758499" style="zoom:50%;" />
 
-<img src="/Users/h/Library/Application Support/typora-user-images/image-20250730162843216.png" alt="image-20250730162843216" style="zoom:50%;" />
-=======
